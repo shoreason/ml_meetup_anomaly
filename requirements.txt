@@ -1,0 +1,7 @@
+sklearn
+numpy
+matplotlib
+scipy
+bs4
+requests
+pandas
